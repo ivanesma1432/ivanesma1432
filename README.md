@@ -80,8 +80,8 @@ I'm an **IT Student** passionate about **Web Development** and **Mobile App Deve
 | **🌊 Marine Ecosystem Classification** | Machine learning project for classifying different types of knives using image recognition | `Python` `ML` `Image Processing` | [View Repo](https://github.com/ivanesma1432/ESMA_Marine_Ecosystem_Classification_FinalProject) |
 | **📱 Flutter UI Components** | Collection of reusable Flutter widgets and UI components for mobile app development | `Flutter` `Dart` `UI/UX` | [View Repo](https://github.com/ivanesma1432/Flutter_Widget_UIComponents) |
 | **🗄️ MySQL Trigger Implementation** | Database automation project implementing MySQL triggers for data management | `MySQL` `Database` `SQL` | [View Repo](https://github.com/ivanesma1432/mysql-trigger-implementation-ESMA) |
-| **💻 IT120 Activities** | Python programming exercises and projects | `Python` `Programming` | [View Repo](https://github.com/ivanesma1432/Esma-IT120) |
-| **📚 IT108 Activities** | Web development and programming fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/ivanesma1432/Esma-IT108) |
+| **💻 IT120 Activities** | Python programming exercises and projects | `Python` `Programming` | [View Repo](https://github.com/ivanesma1432/Esma_IT120) |
+| **📚 IT108 Activities** | Web development and programming fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/ivanesma1432/Esma_IT108) |
 | **🎓 Final Projects** | Academic final projects showcasing full-stack development skills | `Multiple Technologies` | [View Repos](https://github.com/ivanesma1432?tab=repositories) |
 
 </div>
