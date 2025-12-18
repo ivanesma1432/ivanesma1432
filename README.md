@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d9cf311d-c6eb-458b-8f98-e6c0c4e41979" /><div align="center">
 
 # Ivan Adrian France L. Esma
 
@@ -79,7 +79,7 @@ I'm an **IT Student** passionate about **Web Development** and **Mobile App Deve
 
 | Project | Description | Tech Stack | Repository |
 |:--------|:------------|:-----------|:-----------|
-| **🔪 Knives Classification** | Machine learning project for classifying different types of knives using image recognition | `Python` `ML` `Image Processing` | [View Repo](https://github.com/ivanesma1432/ESMA_Marine_Ecosystem_Classification_FinalProject) |
+| **🌊 Marine Ecosystem Classification** | Machine learning project for classifying different types of knives using image recognition | `Python` `ML` `Image Processing` | [View Repo](https://github.com/ivanesma1432/ESMA_Marine_Ecosystem_Classification_FinalProject) |
 | **📱 Flutter UI Components** | Collection of reusable Flutter widgets and UI components for mobile app development | `Flutter` `Dart` `UI/UX` | [View Repo](https://github.com/ivanesma1432/Flutter_Widget_UIComponents) |
 | **🗄️ MySQL Trigger Implementation** | Database automation project implementing MySQL triggers for data management | `MySQL` `Database` `SQL` | [View Repo](https://github.com/ivanesma1432/mysql-trigger-implementation-ESMA) |
 | **💻 IT120 Activities** | Python programming exercises and projects | `Python` `Programming` | [View Repo](https://github.com/ivanesma1432/ESMA_IT120_Act1) |
