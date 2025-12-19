@@ -1,0 +1,10 @@
+0 Coral Reefs
+1 Deep Sea
+2 Estuaries
+3 Hydrothermal...
+4 Kelp Forest
+5 Mangrove For...
+6 Open Ocean
+7 Polar Seas
+8 Seagrass Bed...
+9 Tide Pools
